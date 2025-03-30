@@ -15,6 +15,5 @@ Reestar is a clean and modern restaurant menu website that showcases a variety o
 - CSS3
 
 # Live Demo
-![www](https://github.com/user-attachments/assets/e3994848-e206-4cda-b16a-623a01a6a590)
 [Insert link to live demo or GitHub Pages deployment]
 
