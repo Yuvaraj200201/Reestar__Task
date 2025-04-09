@@ -101,7 +101,7 @@ table {
    margin-top: 20px;
 }
 
-.contact button {
+.send {
     background-color: yellow;
     width: 60%;
     padding: 5px;
@@ -111,7 +111,7 @@ table {
     margin: 20px;
 }
 
-.contact button:hover {
+.send:hover {
     cursor: pointer;
     color: yellow;
     background-color: red;
